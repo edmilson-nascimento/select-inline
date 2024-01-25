@@ -1,7 +1,5 @@
 report inline .
 
-BREAK-POINT.
-
 SELECT 'I' AS sign,
        'EQ' AS option,
        bp~node_key AS low,
