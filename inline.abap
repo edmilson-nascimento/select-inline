@@ -1,8 +1,5 @@
 report inline .
 
-REPORT ytest .
-
-
 BREAK-POINT.
 
 SELECT 'I' AS sign,
